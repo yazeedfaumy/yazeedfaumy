@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @yazeedfaumy
+- 👀 I’m interested in building responsive and user-friendly web applications.
+- 🌱 I’m currently learning advanced JavaScript frameworks like Vue.js and exploring backend development with Laravel.
+- 💞️ I’m looking to collaborate on open-source projects and innovative web development initiatives.
+- 📫 How to reach me: [2002yazeedfaumy@gmail.com]
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a passion for creating seamless user experiences and love experimenting with new web technologies.
